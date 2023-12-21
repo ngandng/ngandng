@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, welcome to my GitHub channel 
+🌱 I am a master student in the field of optimization planning in robotics systems at RML-UNIST.
+🔭 I hope that you can find helpful things here.
+📫 How to reach me: ngan.uet@gmail.com
 
 <!--
 **nganngan0212/nganngan0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
