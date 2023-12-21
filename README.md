@@ -3,7 +3,7 @@
 
 🔭 I hope that you can find helpful things here.
 
-📫 How to reach me: ngan.uet@gmail.com
+📫 Feel free to reach me at ngan.uet@gmail.com
 
 <!--
 **nganngan0212/nganngan0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
