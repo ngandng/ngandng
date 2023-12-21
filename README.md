@@ -1,4 +1,4 @@
-### Hi there 👋, welcome to my GitHub channel 
+### Hi there 👋, welcome to my git
 🌱 I am a master student in the field of optimization planning in robotics systems at RML-UNIST.
 
 🔭 I hope that you can find helpful things here.
