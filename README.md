@@ -5,6 +5,12 @@
 
 📫 Feel free to reach me at ngan.uet@gmail.com
 
+<div align="center">
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ngandng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+</div>
+
 <!--
 **nganngan0212/nganngan0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
