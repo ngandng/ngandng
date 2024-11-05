@@ -3,7 +3,7 @@
 
 🔭 I hope that you can find helpful things here.
 
-📫 Feel free to reach me at ngan.uet at gmail dot com
+📫 Feel free to reach me at ngan.uet [at] gmail [dot] com
 
 <div align="center">
 
