@@ -1,4 +1,4 @@
-### Hi there 👋, welcome to my git
+### Hiii, welcome to my git
 🌱 I am a master student in the field of learning and optimization planning in robotics systems at [RML-UNIST](https://rml-unist.notion.site/Robotics-Mobility-Lab-42d2027df6f24b4db38a83f32fc8456a).
 
 🔎 I hope that you can find helpful things here.
